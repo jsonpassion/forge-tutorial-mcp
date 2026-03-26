@@ -46,14 +46,7 @@ This app is rated 4+ and does not collect personal information from any user, in
 
 We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
 
-## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
-
-- **Email:** jsonpassion@gmail.com
-- **Developer:** Jason (iamjason-bu)
-
----
 ---
 
 # 개인정보 처리방침 — Forge: MCP 실전 완전 정복
@@ -103,10 +96,3 @@ Apple의 iCloud 데이터 처리에 대한 자세한 내용은 [Apple 개인정�
 ## 7. 정책 변경
 
 본 개인정보 처리방침은 필요에 따라 수정될 수 있습니다. 변경 사항이 있을 경우 이 페이지에 반영되며, "최종 수정일"이 업데이트됩니다. 정기적으로 본 방침을 확인하시기 바랍니다.
-
-## 8. 문의하기
-
-본 개인정보 처리방침에 대한 질문이나 우려 사항이 있으시면 아래로 연락해 주시기 바랍니다.
-
-- **이메일:** jsonpassion@gmail.com
-- **개발자:** Jason (iamjason-bu)
